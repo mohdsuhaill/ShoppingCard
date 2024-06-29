@@ -1,0 +1,9 @@
+.card {
+  display: flex;
+  height:300px;
+}
+.col {
+  display: flex !important;
+  height: 400px !important;
+  justify-content: center;
+}
