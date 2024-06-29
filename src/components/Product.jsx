@@ -15,6 +15,7 @@ const Product = ({element,index,value,setvalue}) => {
     }
   };
 
+  
   return (
     <div className="col mb-10  h-100 ">
       <div className="card h-100">
